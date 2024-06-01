@@ -1,0 +1,56 @@
+baseURL: "https://docs.hppeng-wynn.github.io"
+languageCode: en-us
+theme: ["PaperMod"]
+title: Wynnbuilder Docs
+copyright: "© [WynnBuilder Contributors](https://github.com/hppeng-wynn/hppeng-wynn.github.io)"
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: WB docs
+  description: "Wynnbuilder Docs"
+  keywords: [Docs]
+  author: ferricles
+  # buttons:
+  #     - name: Archive
+  #       url: "/archive"
+  #     - name: Github
+  #       url: "https://github.com/"
+  homeInfoParams:
+    Title: Hi there 
+    Content: Welcome to WynnBuilder's documentation/blog post home page
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives/
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Wynnbuilder
+          url: https://hppeng-wynn.github.io
+
+# menu:
+#   main:
+#     - name: Archive
+#       url: archives
+#       weight: 5
+#     - name: Search
+#       url: search/
+#       weight: 10
+#     - name: Tags
+#       url: tags/
+#       weight: 10
+#     - name: WiKi
+#       url: https://github.com/adityatelange/hugo-PaperMod/wiki/
