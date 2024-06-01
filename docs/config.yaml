@@ -1,4 +1,4 @@
-baseURL: "https://ferricles.github.io/docs/"
+baseURL: "https://ferricles.github.io"
 languageCode: en-us
 theme: ["PaperMod"]
 title: Wynnbuilder Docs

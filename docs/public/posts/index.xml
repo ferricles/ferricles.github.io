@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Wynnbuilder Docs</title>
-    <link>https://ferricles.github.io/docs/posts/</link>
+    <link>https://ferricles.github.io/posts/</link>
     <description>Recent content in Posts on Wynnbuilder Docs</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>en</language>
     <copyright>WynnBuilder Contributors</copyright>
     <lastBuildDate>Sat, 01 Jun 2024 16:04:51 -0400</lastBuildDate>
-    <atom:link href="https://ferricles.github.io/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ferricles.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>https://ferricles.github.io/docs/posts/example/</link>
+      <link>https://ferricles.github.io/posts/example/</link>
       <pubDate>Sat, 01 Jun 2024 16:04:51 -0400</pubDate>
-      <guid>https://ferricles.github.io/docs/posts/example/</guid>
+      <guid>https://ferricles.github.io/posts/example/</guid>
       <description></description>
     </item>
   </channel>

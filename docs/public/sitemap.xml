@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ferricles.github.io/docs/posts/example/</loc>
+    <loc>https://ferricles.github.io/posts/example/</loc>
     <lastmod>2024-06-01T16:04:51-04:00</lastmod>
   </url><url>
-    <loc>https://ferricles.github.io/docs/posts/</loc>
+    <loc>https://ferricles.github.io/posts/</loc>
     <lastmod>2024-06-01T16:04:51-04:00</lastmod>
   </url><url>
-    <loc>https://ferricles.github.io/docs/</loc>
+    <loc>https://ferricles.github.io/</loc>
     <lastmod>2024-06-01T16:04:51-04:00</lastmod>
   </url><url>
-    <loc>https://ferricles.github.io/docs/archives/</loc>
+    <loc>https://ferricles.github.io/archives/</loc>
   </url><url>
-    <loc>https://ferricles.github.io/docs/categories/</loc>
+    <loc>https://ferricles.github.io/categories/</loc>
   </url><url>
-    <loc>https://ferricles.github.io/docs/search/</loc>
+    <loc>https://ferricles.github.io/search/</loc>
   </url><url>
-    <loc>https://ferricles.github.io/docs/series/</loc>
+    <loc>https://ferricles.github.io/series/</loc>
   </url><url>
-    <loc>https://ferricles.github.io/docs/tags/</loc>
+    <loc>https://ferricles.github.io/tags/</loc>
   </url>
 </urlset>
